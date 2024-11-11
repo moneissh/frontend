@@ -1,0 +1,21 @@
+.country-select {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+  }
+  
+  .country-select label {
+    font-weight: bold;
+    margin-right: 10px;
+    color: #333;
+  }
+  
+  .country-select select {
+    padding: 8px;
+    font-size: 1rem;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+  }
+  
